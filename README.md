@@ -111,4 +111,4 @@ Similarly, when there are some problems in the game (such as bugs and disputes) 
 
 3. Reduce the user's payment threshold by **low price multiple times**
 
-When the user pays for the "itch," the price must be cheap, and when the user pays for the "pain," the appeasement must be significant; otherwise, the user would feel the game operator's malice. Thus, transaction costs in the game are frequently cheap. Typically, the lowest value of a single transaction is below 10 or 15 yuan, and the maximum is not very big. Users of the game typically begin with "little" krypton, and as they acquire more krypton, the final cumulative value increases.
+When the user pays for the "itch," the price must be cheap, and when the user pays for the "pain," the appeasement must be significant; otherwise, the user would feel the game operator's malice. Thus, transaction costs in the game are frequently cheap. Typically, the lowest value of a single transaction is below 10 or 15 yuan, and the maximum is not very big. Users of the game typically begin with "small" consumption, and the more they consume, the higher the final cumulative value.
