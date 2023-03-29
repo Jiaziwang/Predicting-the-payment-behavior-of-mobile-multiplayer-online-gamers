@@ -16,28 +16,28 @@ This case study is a paid forecast of user behavior data for the SLG mobile game
 - 1 Importing data and understanding basic data information<br>
     1.1 Understanding the characteristics of SLG game data<br>
     1.2 Missing/duplicate values<br>
-- 2. Exploration of labels: important indicators of game operations and the current state of business<br>
-- 3. Exploration of features<br>
+- 2 Exploration of labels: important indicators of game operations and the current state of business<br>
+- 3 Exploration of features<br>
     3.1 Length of time online: are users churning at a faster rate than normal?<br>
     3.2 Distribution and skewness: is the game newbie friendly? Is the game's difficulty set at a reasonable level?<br>
     3.3 Game balance: the impact of top-up consumption on the combat system<br>
     3.4 The left bias brings the long tail: who are the outlier players?<br>
 
 **6.Model building: predicting user consumption behaviour**<br>
-- 1. Importing libraries, integrating data<br>
-- 2. Data pre-processing: correlation of registration time with consumption status<br>
-- 3. Model selection, building a benchmark for the model<br>
-- 4. Feature Engineering(1)：New features based on business model<br>
+- 1 Importing libraries, integrating data<br>
+- 2 Data pre-processing: correlation of registration time with consumption status<br>
+- 3 Model selection, building a benchmark for the model<br>
+- 4 Feature Engineering(1)：New features based on business model<br>
     4.1 New features based on new business indicators<br>
     4.2 New features based on business conclusions<br>
-- 5. Feature Engineering(2)：Reaching the statistical assumptions required for modelling<br>
+- 5 Feature Engineering(2)：Reaching the statistical assumptions required for modelling<br>
     5.1 Correlation analysis: screening features/feature importance<br>
     5.2 Adjustment of training/test set splitting<br>
     5.3 Outliers handling<br>
     5.4 Normalisation<br>
     5.5 Normalization process<br>
-- 6. Model integration: dealing with extreme biases, anomalies and problems caused by the volume of data<br>
-- 7. Model tuning/Optimisation<br> 
+- 6 Model integration: dealing with extreme biases, anomalies and problems caused by the volume of data<br>
+- 7 Model tuning/Optimisation<br> 
 
 ## 1.The gaming industry - a fast-growing new cultural and entertainment industry with new scenarios for data technology deployment
 
