@@ -18,9 +18,11 @@ This case study is a paid forecast of user behavior data for the SLG mobile game
 
 5.Data exploration: in-depth exploration of game user behaviour data
 
-1 Importing data and understanding basic data information
-1.1 Understanding the characteristics of SLG game data
-1.1 Missing/duplicate values
+  1 Importing data and understanding basic data information
+  
+    1.1 Understanding the characteristics of SLG game data
+    
+    1.2 Missing/duplicate values
 Exploration of labels: important indicators of game operations and the current state of business
 Exploration of features
 3.1 Length of time online: are users churning at a faster rate than normal?
