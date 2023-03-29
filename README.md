@@ -82,4 +82,7 @@ The products and services provided by game developers are either the gaming expe
 
 The operation model/operation link of mobile games is a popular model in the Internet traffic war, which may be separated into four steps: user acquisition (preempting traffic), user retention, user promotion, and operation conversion. Although the varieties of mobile games are constantly evolving, its value chain has always consisted of the following four stages. The primary aim of game monetization conversion is users (that is, players), and whether users grow, stay, and become active is heavily reliant on the quality of the game experience and the effectiveness of the conversion link.
 
+The way to generate money in the Internet industry is to plant grass, attract sheep to graze on it, corral the sheep, and then attack the wolves that want to eat the sheep. This is a superb summary of the short video platform. In contrast, the gaming business must first plant grass (this grass must be delicious and addictive), let the sheep graze, and then put the sheep in circles so that the sheep may grow better grass and consume it more quickly. Pay for the grass, the grass that grows fatter after consumption, and can inspire sheep that can afford to eat higher-quality grass to resent common sheep.
+
+
 
