@@ -63,3 +63,23 @@ This case study is a paid forecast of user behavior data for the SLG mobile game
 > - Domestic games are "going global," and the government is promoting game exports and encouraging the construction of a global development pattern. Among the types of domestically developed export games:> - **Simulation/strategy games (SLG), such as "Age of Empires" and "Jiangnan Baijingtu," account for 41.47% of the total.**<br> - First-person shooter games (FPS), such as "PlayerUnknown's Battlegrounds," account for 13.58%.<br> - Role-playing games (MMORPG), such as "Genshin Impact" and "Onmyoji," account for 12.25%.<br><br>
 > - Domestic original IP development capabilities have improved, and the innovation ability of independently developed original games has generally increased.<br><br>
 
+# From cash flow to revenue: a comprehensive analysis of the operations model for mobile games
+
+Data technology workers affect the entire value creation process by influencing important decisions at key nodes of these value chains.
+
+Income is one of the primary representations of value, hence the first step in dismantling an industry is frequently to answer the question "where does the revenue originate from?" This involves the industry's pricing structure, the products/services it offers, and the channel's reliance on the three key factors. Learn how various companies in various industries generate revenue, as well as the product/service matrix given by the company/industry. One of the most important roles of data technology employees is to maximize these products/services individually or in combination. A decent product or service must be visible to the public and must showcase its own platform in order to acquire or transact traffic. Hence, **optimization of operation channels/sales methods** is also one of the tasks of workers in information technology.<br><br>
+
+The revenue sources of various games can be roughly categorized as follows:
+
+- **Users pay in-game for in-game services/products** (often referred to as krypton gold) <br><br>
+- **Download and set up** (paid for APP downloads or via STEAM and other platforms) <br><br>
+- **Corporate sponsorship or naming** (the sports vehicle in the game is the logo of a certain car, and various emblems are printed on the game's buildings) <br><br>
+- **Inline Ads** (Must see advertisements to unlock levels, reduce time, etc.) <br> <br>
+- **Game Contest** (Participation is subject to a fee, the event has sponsorship and prizes, etc.) <br><br>
+
+
+The products and services provided by game developers are either the gaming experience or products related to game IP.
+
+The operation model/operation link of mobile games is a popular model in the Internet traffic war, which may be separated into four steps: user acquisition (preempting traffic), user retention, user promotion, and operation conversion. Although the varieties of mobile games are constantly evolving, its value chain has always consisted of the following four stages. The primary aim of game monetization conversion is users (that is, players), and whether users grow, stay, and become active is heavily reliant on the quality of the game experience and the effectiveness of the conversion link.
+
+
