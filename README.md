@@ -21,3 +21,9 @@ This case study is a paid forecast of user behavior data for the SLG mobile game
 6.Model building: predicting user consumption behaviour
 
 ## 1.The gaming industry - a fast-growing new cultural and entertainment industry with new scenarios for data technology deployment
+
+- Over the past 10 years, gaming has become one of the**most significant**forms of entertainment
+> - The total value of global games in 2010 was about US$11 billion, now it is US$170 billion<br>**More than the total value of the global television and film industries combined**<br><br>
+> - In 2009, the three gaming giants in the domestic market (Tencent, Shanda and NetEase) generated a total annual revenue of RMB 13.56 billion, while Tencent alone generated RMB 156.1 billion in gaming revenue in 2020, while NetEase generated RMB 54.61 billion<br>（This actually happens on top of the fact that a large number of games are available to play for free）<br><br>
+> - Games become central to cultural life, with players focusing on deep systems/narratives/interactions and having the ability to appreciate and discriminate between games<br>**The main player base shifts from children to adults**<br><br>
+> - The status of game participants/developers increases dramatically, eSports becomes an Olympic sport, anchors and game directors become superstars, politicians joke about PokemonGo in the presidential election, and there's a Fortnite dance at the World Cup ......
