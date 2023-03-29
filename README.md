@@ -4,5 +4,5 @@ This case study is a paid forecast of user behavior data for the SLG mobile game
 
 * Data source: Chengdu Nibiru Technology Co., Ltd (English logo: tap4fun) provided to DC officials for the data competition
 * Data size: millions
-- Prediction type: regression
-- Algorithms involved: Linear regression, logistic regression, random forest, GBDT
+* Prediction type: regression
+* Algorithms involved: Linear regression, logistic regression, random forest, GBDT
