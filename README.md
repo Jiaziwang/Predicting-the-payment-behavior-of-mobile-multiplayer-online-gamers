@@ -11,8 +11,7 @@ This case study is a paid forecast of user behavior data for the SLG mobile game
 **1.The gaming industry - a fast-growing new cultural and entertainment industry with new scenarios for data technology deployment**<br><br>
 **2.From cash flow to revenue: a comprehensive analysis of the operations model for mobile games**<br><br>
 **3.The sweet trap: how you move step by step towards consumption?**<br><br>
-**4.Games and data: 6 typical scenarios in which data technology assists game operators**<br><br>
-**5.Data exploration: in-depth exploration of game user behaviour data**<br>
+**4.Data exploration: in-depth exploration of game user behaviour data**<br>
 - 1 Importing data and understanding basic data information<br>
     1.1 Understanding the characteristics of SLG game data<br>
     1.2 Missing/duplicate values<br>
@@ -23,7 +22,7 @@ This case study is a paid forecast of user behavior data for the SLG mobile game
     3.3 Game balance: the impact of top-up consumption on the combat system<br>
     3.4 The left bias brings the long tail: who are the outlier players?<br>
 
-**6.Model building: predicting user consumption behaviour**<br>
+**5.Model building: predicting user consumption behaviour**<br>
 - 1 Importing libraries, integrating data<br>
 - 2 Data pre-processing: correlation of registration time with consumption status<br>
 - 3 Model selection, building a benchmark for the model<br>
@@ -86,7 +85,30 @@ The way to generate money in the Internet industry is to plant grass, attract sh
 
 Similarly, when there are some problems in the game (such as bugs and disputes) and players need to be appeased, the above three products and services can also be used to appease users.
 
+# The sweet trap: how you move step by step towards consumption?
+Even the game with the simplest model (Bejeweled) can rely on the game experience design to make a steady profit without losing money, ranking among the top ten in the global mobile game revenue list all year round.
+
+The main way to encourage users to make in-game purchases is through the following three conditions:
+
+**Creating itchiness or even pain in the game, stirring up players' emotions.**
+
+
 3. Reduce the user's payment threshold by **low price multiple times**
 When the user pays for the "itch," the price must be cheap, and when the user pays for the "pain," the appeasement must be significant; otherwise, the user would feel the game operator's malice. Thus, transaction costs in the game are frequently cheap. Typically, the lowest value of a single transaction is below 10 or 15 yuan, and the maximum is not very big. Users of the game typically begin with "little" krypton, and as they acquire more krypton, the final cumulative value increases.
 
+> - **Itching**<br><br>Bejeweled——I want to play the next level, but I have no life/I almost passed the level, but there are no steps<br><br> br>Onmyoji/FGO——The new characters/new skins/new avatar frames are so cool, I really want them<br><br>Some plot games—the options that will obviously trigger the heartbeat plot are paid, really want to know what will happen
 
+> - **Painful**<br><br>PVP can never win, I finally played a game, and was tortured to the point of rage<br><br>The resources I have saved for a long time are all used to draw cards, a useful one None of them<br><br>This level has been replayed 30 times and has not passed, and there is no hope of even passing the level<br><br>Severe lack of skills/resources, production resources take too long, and development is not enough Go on, the main storyline cannot be advanced<br><br>
+
+2. Allow players to buy** products and services** that can gain more competitive advantages, higher levels of psychological satisfaction, and deeper experience**, so as to eliminate **itch** and obtain **cool**
+
+> - Competitive advantages - such as buying more advanced weapons, equipment, buying props that provide more experience, props that shorten waiting time, etc.<br>
+> - Psychological satisfaction—such as skins, avatar frames, achievements, titles, rare decorations, etc.<br>
+> - In-depth experience-such as card draw coupons, number of lives, paid to unlock more levels, paid plot lines, paid copies, etc.<br><br>
+(It is not difficult to find that these payment points are almost driven by **emotions** rather than rationality. Therefore, compared with e-commerce, education and other industries, transactions in the game industry have a great relationship with experience, and the objectiveness of users themselves Requirements are not so relevant)
+
+Similarly, when there are some problems in the game (such as bugs and disputes) and players need to be appeased, the above three products and services can also be used to appease users.
+
+3. Reduce the user's payment threshold by **low price multiple times**
+
+When the user pays for the "itch," the price must be cheap, and when the user pays for the "pain," the appeasement must be significant; otherwise, the user would feel the game operator's malice. Thus, transaction costs in the game are frequently cheap. Typically, the lowest value of a single transaction is below 10 or 15 yuan, and the maximum is not very big. Users of the game typically begin with "little" krypton, and as they acquire more krypton, the final cumulative value increases.
