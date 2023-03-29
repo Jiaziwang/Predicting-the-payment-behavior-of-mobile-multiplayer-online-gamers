@@ -84,5 +84,9 @@ The operation model/operation link of mobile games is a popular model in the Int
 
 The way to generate money in the Internet industry is to plant grass, attract sheep to graze on it, corral the sheep, and then attack the wolves that want to eat the sheep. This is a superb summary of the short video platform. In contrast, the gaming business must first plant grass (this grass must be delicious and addictive), let the sheep graze, and then put the sheep in circles so that the sheep may grow better grass and consume it more quickly. Pay for the grass, the grass that grows fatter after consumption, and can inspire sheep that can afford to eat higher-quality grass to resent common sheep.
 
+Similarly, when there are some problems in the game (such as bugs and disputes) and players need to be appeased, the above three products and services can also be used to appease users.
+
+3. Reduce the user's payment threshold by **low price multiple times**
+When the user pays for the "itch," the price must be cheap, and when the user pays for the "pain," the appeasement must be significant; otherwise, the user would feel the game operator's malice. Thus, transaction costs in the game are frequently cheap. Typically, the lowest value of a single transaction is below 10 or 15 yuan, and the maximum is not very big. Users of the game typically begin with "little" krypton, and as they acquire more krypton, the final cumulative value increases.
 
 
