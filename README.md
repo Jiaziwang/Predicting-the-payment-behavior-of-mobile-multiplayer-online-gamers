@@ -1,3 +1,8 @@
 # Predicting-the-payment-behavior-of-mobile-multiplayer-online-gamers
 # Overview
-本案例是针对SLG手游《野蛮时代》（Brutal Age）用户行为数据的氪金预测。该案例数据来源于DC竞赛第二届智慧中国杯（ICC）。《野蛮时代》是一款风靡全球的SLG类型手机游戏。根据App Annie统计，《野蛮时代》在12个国家取得游戏畅销榜第1，在82个国家取得游戏畅销榜前10。准确了解每个玩家的价值，对游戏的广告投放策略和高效的运营活动（如精准的促销活动和礼包推荐）具有重要意义，有助于给玩家带来更个性化的体验。因此，我们希望能在玩家进入游戏的前期就对于他们的价值进行准确的估算。在这个竞赛里，我们将利用玩家在游戏内前7日的行为数据，预测他们每个人在45日内的付费总金额。
+This case study is a paid forecast of user behavior data for the SLG mobile game Brutal Age, which is a globally popular SLG mobile game. According to App Annie, "Age of Savagery" is the best-selling game in the top spot in 12 countries and in the top 10 in 82 countries. The game's advertising strategy and efficient operating activities (such as correct promotions and gift pack recommendations) contribute to a more personalized experience for players by accurately assessing the value of each player. Thus, we wish to be able to precisely determine the value of players from the moment they enter the game. In this competition, we will anticipate the total amount players will pay for each character within 45 days based on their behavior during the first seven days of their gaming experience.
+
+*Data source: Chengdu Nibiru Technology Co., Ltd (English logo: tap4fun) provided to DC officials for the data competition
+*Data size: millions
+-Prediction type: regression
+-Algorithms involved: Linear regression, logistic regression, random forest, GBDT
