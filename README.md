@@ -20,3 +20,4 @@ This case study is a paid forecast of user behavior data for the SLG mobile game
 
 6.Model building: predicting user consumption behaviour
 
+## 1.The gaming industry - a fast-growing new cultural and entertainment industry with new scenarios for data technology deployment
